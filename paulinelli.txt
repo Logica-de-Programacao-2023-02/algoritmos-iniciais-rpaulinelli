@@ -1,0 +1,85 @@
+Algoritmo de soma de dois números: um algoritmo simples que pede dois números como entrada e retorna a soma desses dois números.
+
+1.leia A
+2.leia B
+3.resultado = A + B
+4.escreva resultado 
+
+
+Algoritmo de conversão de temperatura: um algoritmo que converte uma temperatura em Celsius para Fahrenheit ou vice-versa.
+
+1.leia temperatura
+2.leia unidade de medida
+3.se a unidadade = C
+4.entâo resultado = (temperatura * 1,8) + 32
+5. senão
+6.então resultado =( temperatura - 32) / 1.8
+7. escreva resultado
+
+
+Algoritmo de cálculo de média: um algoritmo que calcula a média de uma lista de números.
+1.leia lista de números
+2.var soma = 0
+3.para cada número da lista faça:
+3.1: soma = soma + elemento
+4.calcule a média dividindo a var soma pelo tamanho da lista
+5.escreva resultado
+
+
+Algoritmo de cálculo de fatorial: um algoritmo que calcula o fatorial de um número, ou seja, o produto de todos os números inteiros de 1 até aquele número.
+1.leia A
+2.inicializar produto com 1
+3.para todo número inteiros antes do A faça:
+3.1: multiplique todos pelo produto inicial
+4. escreva produto
+
+
+Algoritmo de busca linear: um algoritmo que procura por um determinado elemento em uma lista, verificando cada elemento da lista até encontrá-lo.
+
+1. leia lista
+2. leia um elemento a ser encontrado 
+3. para cada elemento da lista faça:
+3.1: se o elemento atual for diferente do elemento a ser encontrado
+4.continue verificando até ser encontrado senão:
+5. escreva o resultado
+
+
+Algoritmo de cálculo de potência: um algoritmo que calcula a potência de um número, elevando-o a uma determinada potência.
+1.leia A
+2.leia a potência de A 
+3.faça a multiplicação de A por ele mesmo até a sua potência
+4.escreva o resultado
+
+
+Algoritmo de verificação de número primo: um algoritmo que verifica se um número é primo, ou seja, se é divisível apenas por 1 e por ele mesmo.
+1.leia o número
+2.para cada número entre 2 e ele mesmo faça:
+3.se o resto da divisão for = 0
+4.então o número não é primo
+5.senão
+6.o número é primo
+
+
+Algoritmo de cálculo de área de um triângulo: um algoritmo que calcula a área de um triângulo com base na base e altura fornecidas.
+1.leia base=A e altura=B 
+2.resultado=faça A * B / 2 
+3.escreva resultado
+
+
+Algoritmo de cálculo de juros compostos: um algoritmo que calcula o montante de dinheiro após um período de tempo com juros compostos.
+1.pedir o valor do capital
+2.pedir o período de tempo
+3.pedir a taxa de juros
+4.faça:
+5. divida o valor do juros por 100 para dar o valor decimal do juros
+6.multiplique o valo decimal + 1 pelo valor do capital
+7.resultado= valor da multiplicação elevado ao tempo
+8.escrever resultado
+
+
+
+
+
+
+
+Algoritmo de cálculo de média ponderada: um algoritmo que calcula a média ponderada de uma lista de números com base nos pesos fornecidos.
